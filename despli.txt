@@ -1,0 +1,11 @@
+echo "# backendMixtura" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/jcze993/backendMixtura.git
+git push -u origin main
+
+oo esto
+
+https://circleci.com/blog/continuous-deployment-nestjs/?utm_medium=SEM&utm_source=gnb&utm_campaign=SEM-gb-DSA-Eng-latam&utm_content=&utm_term=dynamicSearch-&gclid=CjwKCAjw3riIBhAwEiwAzD3TiXZCP4GAgXfScP81i1nIkchYS5Jcdkkkrx5jx08UklcO4VcUlMMPpRoCKloQAvD_BwE

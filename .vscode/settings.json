@@ -1,0 +1,6 @@
+{
+    "exportall.config.folderListener": [
+        "/src/shared",
+        "/src/shared/users"
+    ]
+}
